@@ -1,0 +1,9 @@
+# Ignore all files in the .gitignore file
+
+# environment variables
+.env
+
+# logs
+app.log
+
+# modules
