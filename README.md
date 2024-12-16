@@ -94,5 +94,4 @@ pip install audioop-lts
 
 ## Contact
 
-- [Telegram](https://t.me/crypto_0614)
-- [Email](mailto:pleasebugmenot.dev@gmail.com)
+- [Telegram](https://t.me/plzbugmenot)
